@@ -1,4 +1,3 @@
-# price-list
 <!-- 会社紹介動画タブ -->
                 <div id="company" class="tab-content">
                     <div class="section">
